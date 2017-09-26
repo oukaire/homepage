@@ -1,10 +1,9 @@
 ## My Portfolio @ https://oukaire.github.io
 #  Compiling GUIDE and underlying Data structure and abstractions
 -------------------------------------------------------------------------
-Author:         Onyinyechi Ukaire
-Date:           September 25, 2016
-Course:         Web Programming 
-Description:    First Portfolio Build
+by Onyinyechi Ukaire, September 25, 2016
+
+First Portfolio Build
 -------------------------------------------------------------------------
 Purpose: 
 
