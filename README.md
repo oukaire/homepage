@@ -4,7 +4,7 @@
 Author:         Onyinyechi Ukaire
 Date:           September 25, 2016
 Course:         Web Programming 
-Description:    Here, I implement my course website
+Description:    First Portfolio Build
 -------------------------------------------------------------------------
 Purpose: 
 
@@ -53,9 +53,5 @@ Technical details--
           "QueueContainer" struct to sort any list of numbers
 
 -------------------------------------------------------------------------
-    What does not work (use included Makefile): 
-          make
-
-    To run:
-          ./hw5
+    What does not work: My Portfolio works as 
 -------------------------------------------------------------------------
