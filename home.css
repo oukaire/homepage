@@ -2,7 +2,7 @@
 
 h1 {
         text-align: center;
-        font-size: 64px;
+        font-size: 32px;
         background-color: #F5F5F5; /* Whitesmoke */
         padding-top: 50px;
         padding-bottom: 50px;
@@ -11,16 +11,40 @@ h1 {
 }
 
 body {
-        font-family: Helvetica,sans-serif;
+        font-family: Helvetica;
         background-color: #F5F5F5;
+
+        text-align: center;
+        font-size: 32px;
+        background-color: #F5F5F5; /* Whitesmoke */
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-left: 20%;
+        margin-right: 20%;
 }
 
 p {
+        text-align: center;
         font-size: 24px;
         color: white;
 }
 
 #name {
-        font-family: Arial;
+        font-family: Helvetica;
         font-size: 24px;
+        color: black;
+        text-align: center;
+}
+
+
+.moto {
+        background-color:yellow;
+        font-size: 48px;
+        color: black;
+        text-align: center;
+}
+
+p.moto {
+        font-size: 10px;
+        text-align: center;
 }
