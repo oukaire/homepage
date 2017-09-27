@@ -3,8 +3,7 @@
 h1 {
         text-align: center;
         font-size: 64px;
-        background-color: yellow;
-        border-style: dashed;
+        background-color: #F5F5F5; /* Whitesmoke */
         padding-top: 50px;
         padding-bottom: 50px;
         margin-left: 20%;
@@ -12,8 +11,8 @@ h1 {
 }
 
 body {
-        font-family: Helvetica,Arial,sans-serif;
-        background-color: #007FFF; /* Azure */
+        font-family: Helvetica,sans-serif;
+        background-color: #F5F5F5;
 }
 
 p {
@@ -21,19 +20,7 @@ p {
         color: white;
 }
 
-/*
-  lines 12 to 14 => 1 CSS *rule*
-  `p` (line 12) => selector. There are three types of selectors...
-  `font-size: 24px;` => 1 *declaration*, a.k.a., property-value pair
-    `font-size` => property
-    `24px` => value
-*/
-
-#troll1 {
-        font-family: "Comic Sans MS";
-        font-size: 72px;
-}
-
-h1 {
-        background-color: violet;
+#name {
+        font-family: Arial;
+        font-size: 24px;
 }
