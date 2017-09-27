@@ -23,26 +23,23 @@ p {
         text-align: center;
 }
 
-
 .moto {
-        background-color:yellow;
-        font-size: 48px;
+        background-color: #f0ffff;
         color: black;
-        text-align: center;
-}
-
-p.moto {
-        font-size: 10px;
-        text-align: center;
 }
 
 body {
         font-family: Helvetica;
         text-align: center;
-        font-size: 32px;
+        font-size: 24px;
         color: black; 
         padding-top: 50px;
         padding-bottom: 50px;
         margin-left: 20%;
         margin-right: 20%;
+}
+
+p.moto {
+        font-size: 24px;
+        text-align: center;
 }
