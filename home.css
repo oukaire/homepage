@@ -10,19 +10,6 @@ h1 {
         margin-right: 20%;
 }
 
-body {
-        font-family: Helvetica;
-        background-color: #F5F5F5;
-
-        text-align: center;
-        font-size: 32px;
-        background-color: #F5F5F5; /* Whitesmoke */
-        padding-top: 50px;
-        padding-bottom: 50px;
-        margin-left: 20%;
-        margin-right: 20%;
-}
-
 p {
         text-align: center;
         font-size: 24px;
@@ -47,4 +34,15 @@ p {
 p.moto {
         font-size: 10px;
         text-align: center;
+}
+
+body {
+        font-family: Helvetica;
+        text-align: center;
+        font-size: 32px;
+        color: black; 
+        padding-top: 50px;
+        padding-bottom: 50px;
+        margin-left: 20%;
+        margin-right: 20%;
 }
