@@ -1,7 +1,7 @@
 **README.md**
-_by Onyinyechi Ukaire, September 26, 2017_
-First Portfolio Build
-
+_by Onyinyechi Ukaire_ 
+        Last Updated: September 26, 2017
+        
 -------------------------------------------------------------------------
 
 ## Overview
