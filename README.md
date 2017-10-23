@@ -1,8 +1,7 @@
-## My Portfolio @ https://oukaire.github.io
 -------------------------------------------------------------------------
-by Onyinyechi Ukaire, September 26, 2017
+**README.md**
+_by Onyinyechi Ukaire, September 26, 2017_
 First Portfolio Build
-
 -------------------------------------------------------------------------
 
 ## Overview
@@ -17,12 +16,9 @@ First Portfolio Build
 4. uses HTML5 and is [W3C](https://validator.w3.org/) validated
 
 ## My Portfolio does not:
-1. use JavaScript, jQuery or some front-end framework
+1. use JavaScript, jQuery or any front-end framework
 2. use any site generator like Jekyll
 
 ## Credits
-While `My Portfolio` is rudimentary, some implementations mimic those 
-present on https://github.com/tuftsdev/WebProgramming/
-
-## Hours Spent 
-Building `My Portfolio` cost me 6 hours.
+Tufts comp20 on Webprogramming affords [examples](https://github.com/tuftsdev/WebProgramming/tree/gh-pages/examples) 
+that I mimic.
