@@ -5,7 +5,7 @@ permalink: /courses/
 ---
 
 ### Education
-* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/){:target="_blank"}
+* [COMP 20: Web Programming](http://www.cs.tufts.edu/comp/20/)
   * Enrollment (number of students): 124
   * Overall Course Rating (of 115 responses): 4.17 / 5.0 [question 5]
   * Overall Performance of Instructor (of 115 responses): 4.42 / 5.0 [question 15]
