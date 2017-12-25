@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Courses
+title: Courses @ Tufts
 permalink: /courses/
 ---
 
