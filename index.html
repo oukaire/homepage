@@ -1,19 +1,23 @@
-<!doctype html>
+---
+layout: default
+---
 
-<html>
-    <head>
-        <title>oukaire (Onyi Ukay)</title>
-        <meta charset="utf-8"/>
-        <link href="home.css" rel="stylesheet" />
-    </head>
+<div class="home">
 
-    <body>
-        <h1>My Portfolio</h1>
-            <p id="name">Ukaire, Onyinyechi C</p>
-            <p><img src="pics/oukaire.png" alt="ME" /></p>
+  <h1 class="page-heading">Posts</h1>
 
-        <h3 id="bio"><a href="bio.html">My Bio</a></h3>
-        <h3 id="resume"><a href="resume.html">My Resume</a></h3>
-        <p class="moto">...stay tuned</p>
-    </body>
-</html>
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

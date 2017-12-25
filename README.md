@@ -19,5 +19,4 @@ Last Updated: December 25, 2017
 2. use any site generator like Jekyll
 
 ## Credits
-Tufts comp20 on Webprogramming affords [examples](https://github.com/tuftsdev/WebProgramming/tree/gh-pages/examples) 
-that I mimic.
+[Ming's Homepage](https://github.com/mchow01/mchow01.github.io)

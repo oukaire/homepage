@@ -5,8 +5,18 @@ npm-debug.log
 # Local development
 *.env
 *.dev
+._*
 .DS_Store
+.DS_Store?
 
 # Docker
 Dockerfile
 docker-compose.yml
+
+# OS generated files #
+######################
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
