@@ -5,9 +5,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Onyinyechi Ukaire's website
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://oukaire.github.io" # the base hostname & protocol for your site
-twitter_username: O_Ukaire # recheck
+twitter_username: O_Ukaire
 github_username:  oukaire
-linkedin_username: oukaire # recheck
+linkedin_username: oukaire
 
 # Build settings
 markdown: kramdown
