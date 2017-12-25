@@ -14,4 +14,4 @@ Coming from a humble background, Ukay is thankful to have been exposed to a weal
 I have a deep passion for sports.  I love playing football and table-tennis. I am also a dance enthusiast. I have a 30-minute daily routine of stepping out of his comfort zone to learn something new. I love playing video games when I have free time. I do not often read literary books, but I enjoy reading technical journals and periodicals to remain current.
 
 ### Favorite Sport Teams
-With gleeful gusto, I have been an FC Barcelona fan since 2005 with Ronaldinho as my secret hero.  Ditto for New England's patriots in American football and the Boston Celtics in NBA. I seldom follow tennis and golf: go Roger Federer, go Roy Mcllroy! 
+With gleeful gusto, I have been an FC Barcelona fan since 2005 with Ronaldinho as my secret hero.  Ditto for New England's patriots in American football and the Boston Celtics in NBA. I seldom follow tennis and golf : go Roger Federer, go Roy Mcllroy! 
