@@ -56,6 +56,26 @@ _ALA student representative_
 _Market Research and Finance Intern_
 * Interviewed 10 suppliers and 15 consumers of financial products and services to learn their use of such products
 
+## Honors and Awards
+
+**Tufts University**
+* Dean’s List: Fall 2014 to Fall 2017 (All Semesters)
+* Javi Leverson Award for Tufts-in-Oxford program
+
+**Rakuten Scholarship, GCYS**
+* Awarded scholarship to create a project to tackle social change
+
+**Tour De Math**
+* Team Award: best performing team
+
+**National Senior Secondary School Mathematics Competition (NASSMAC), Abuja, Nigeria, 2011**
+* Awarded 1st Price at State level of the competition and received a cash award at the national level
+
+**Nigerian National Petroleum Corporation, Lokoja, Nigeria, 2011**
+* Awarded 1st price award at both state and rural level in Mathematics, Chemistry and Biology
+
+**International Academy for the Gifted and Talented, Lagos, Nigeria, August 2010 and 2011**
+* Awarded Best Student in Chemistry and Biology
 
 ## Skills
 
