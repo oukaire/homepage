@@ -10,7 +10,7 @@ permalink: /cv/
 ## Education
 
 **Tufts University, School of Arts and Sciences, Medford, MA 02155**
-♣ Bachelor of Science in Biochemistry, 2018, Summa Cum Laude* 
+* Bachelor of Science in Biochemistry, 2018, Summa Cum Laude* 
 * Majored in Biochemistry, Minored in Computer Science
 * Honors: Dean's List from Fall 2014 to Present, GPA: 3.85
 
