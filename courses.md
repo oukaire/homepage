@@ -18,7 +18,7 @@ permalink: /courses/
 * [COMP 0020: Web Programming](http://www.cs.tufts.edu/comp/20/)
 * [COMP 0040: Machine Structure and Assembly Language Programming](https://www.cs.tufts.edu/comp/40/)
 * Physics 1 and 11 Shared Lab
-* [PHY 0001: Physics](http://as.tufts.edu/physics/courses)
+* [PHY 0001: Physics](http://as.tufts.edu/physics/courses)           
 Term Honor: Dean's List
 
 ### Spring 2017
@@ -26,14 +26,14 @@ Term Honor: Dean's List
 * CHEM 0031: Physical Chemistry I
 * CHEM 0172: Chemistry II
 * CHEM 0340: Biophysical Chemistry II
-* PHIL 0124: Bioethics
+* PHIL 0124: Bioethics             
 Term Honor: Dean's List
 
 ### Fall 2016
 * BIO 0041: General Genetics
 * BIO 0050: Experiments in Molecular Biology
 * BIO 0105: Molecular Biology
-* CHEM 0042: Quantitative Analysis
+* CHEM 0042: Quantitative Analysis            
 Term Honor: Dean's List
 
 ### Summer 2016
@@ -45,7 +45,7 @@ Term Honor: Dean's List
 * CHEM 0054: Organic Chemistry II Lab
 * CHEM 0171: Biochemistry I
 * COMP 0015: Data Structures
-* FR 0022: Composition And Conversation II
+* FR 0022: Composition And Conversation II               
 Term Honor: Dean's List
 
 ### Fall 2015
@@ -54,28 +54,28 @@ Term Honor: Dean's List
 * CHEM 0053: Organic Chemistry I Lab
 * COMP 0011: Introduction To Computer Science
 * FR   0004: Intermediate French II
-* PE   0045: Physical Fitness
+* PE   0045: Physical Fitness       
 Term Honor: Dean's List
 
 ### Summer 2015
-* FR   0003: Intermediate French I
+* FR   0003: Intermediate French I               
 Term Honor: Dean's List
 
 ### Spring 2015
-* CHEM 0002     Chemical Principles W/Lab
-* EC   0006     Business Law
-* ENG  0004     Writing Seminar Family Ties
-* FR   0002     Elementary French II
-* PE   0001     Swimming I
+* CHEM 0002: Chemical Principles W/Lab
+* EC   0006: Business Law
+* ENG  0004: Writing Seminar Family Ties
+* FR   0002: Elementary French II
+* PE   0001: Swimming I                
 Term Honor: Dean's List
 
 ### Fall 2014
-* CHEM 0001     Chemical Fundamentals W/Lab
-* ENG  0001     Expository Writing
-* FR   0001     Elementary French I
-* MATH 0034     Calculus II    
+* CHEM 0001: Chemical Fundamentals W/Lab
+* ENG  0001: Expository Writing
+* FR   0001: Elementary French I
+* MATH 0034: Calculus II    
 Term Honor: Dean's List
 
 ### Transfer Credits via A-level Cambridge International Examinations (CIEs)
-* MATH 0032     Calculus
-* BIO  0013     Cells and Organisms W/Lab 
+* MATH 0032: Calculus
+* BIO  0013: Cells and Organisms W/Lab 
