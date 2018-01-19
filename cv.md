@@ -27,32 +27,32 @@ _Premedicine Leadershup Scholar at Atlantis Project Fellowship, an AMSA endorsed
 * Shadowed 8 medical doctors and surgeons across specialties including cardiology, neurology and oncology
 * Facilitated five of various group bonding sessions per week, at hospital and/or on excursions
 
-**National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, June - August 2016**
+**National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, June - August 2016**      
 _Summer Student/Intern at Laboratory of Translational Genomics_
 * investigated interferon-lamda 4 (IFN-λ) mechanism for anti-proliferative effects in hepatoma cells
 * Used RNAseq and Ingenuity Pathway Analysis to detect relevant network of genes at target cellular level
 
-**Tufts Sharewood Project, Malden Clinic, MA 02148, November 2015 - May 2016**
+**Tufts Sharewood Project, Malden Clinic, MA 02148, November 2015 - May 2016**         
 _Volunteer and Liaison for Tufts Premedical Society_
 * Triaged 5-15 patients a week, checking their height, weight and vital signs
 * Proffered patients to appropriate wards, doctors or departments for further attention
 
-**Global Citizens Youth Summit, Harvard Faculty Club, Cambridge, MA 02138, August 2014**
+**Global Citizens Youth Summit, Harvard Faculty Club, Cambridge, MA 02138, August 2014**         
 _Rakuten Scholar_
 * Designed a project that researched health stress titled “Live and let live”
 * Marketed GCYS with flyers and media adverts
 
-**Footprints Limited, ALA, Johannesburg, South Africa, September 2012 - April 2014**
+**Footprints Limited, ALA, Johannesburg, South Africa, September 2012 - April 2014**          
 _Financial Officer, student-run business that nets over $5,500 annually_
 * Managed stakeholder relationships & led an elevator pitch that made us raise $1,500 starting capital
 * Analyzed sales report and predicted opportunities that grew profit from $2,000 in 2013 to $5,000 in 2014
 
-**Accelerating Youth Employment Forum, Addis Ababa, Ethiopia, January 2014**
+**Accelerating Youth Employment Forum, Addis Ababa, Ethiopia, January 2014**         
 _ALA student representative_
 * Facilitated group activities that brainstormed solutions to tackling youth unemployment in Africa 
 * Proposed solutions to 54 African Heads of State at a round table
 
-**Hollard Group of Companies, Johannesburg, South Africa, November 2012 - October 2013**
+**Hollard Group of Companies, Johannesburg, South Africa, November 2012 - October 2013**        
 _Market Research and Finance Intern_
 * Interviewed 10 suppliers and 15 consumers of financial products and services to learn their use of such products
 
