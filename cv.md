@@ -56,6 +56,25 @@ _ALA student representative_
 _Market Research and Finance Intern_
 * Interviewed 10 suppliers and 15 consumers of financial products and services to learn their use of such products
 
+## Projects
+
+**Type Inferencer**
+* Implemented a constraint-based inference algorithm in ML for the Hindley-Milner type system, which represents the current best practice for flexible static typing.
+* Implemented type systems language features including polymorphism. 
+* Translated formal type-system rules into code, and added new primitives to a new language, nano-ML.
+
+**Universal Machine**
+* Developed an emulator in C that interprets UM instructions
+* Wrote code to interpret instructions in _big-endian_ format: 32-bit codeword with
+ 4-bit opcode and 3-registers identified with 2 bits.
+
+**PPM Image Compressor and Decompressor**
+* Wrote a program in C that takes a PPM image and compresses the image by transforming color spaces and discarding information not easily seen by the human eye (this is lossy compression).
+* Wrote conversions between different representations of color image data: first a bijection between RGB
+and component video (Y/PR/PB) color spaces and then a discrete cosine transform
+* Packed and unpacked binary data that puts multiple small values (both signed and unsigned) into a word. 
+* Implemented two’s-complement representations of signed data alongside floating-point arithmetic.
+
 ## Honors and Awards
 
 **Tufts University**
