@@ -1,5 +1,3 @@
-/* for index.html */
-
 h1 {
         text-align: center;
         font-size: 32px;
@@ -17,7 +15,7 @@ p {
 }
 
 #name {
-        font-family: Helvetica;
+        font-family: Tahoma, Verdana, Segoe, sans-serif;
         font-size: 24px;
         color: black;
         text-align: center;
@@ -29,7 +27,7 @@ p {
 }
 
 body {
-        font-family: Helvetica;
+        font-family: Tahoma, Verdana, Segoe, sans-serif;
         text-align: center;
         font-size: 24px;
         color: black; 
