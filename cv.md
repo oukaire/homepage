@@ -12,7 +12,7 @@ permalink: /cv/
 **Tufts University, School of Arts and Sciences, Medford, MA 02155**
 * Bachelor of Science in Biochemistry, 2018, Summa Cum Laude* 
 * Majored in Biochemistry, Minored in Computer Science
-* Honors: Dean's List from Fall 2014 to Present, GPA: 3.85
+* Honors: Dean's List from Fall 2014 to Present, GPA: 3.87
 
 **University of Oxford, Oxford, United Kingdom 0X11DW**
 * Junior year abroad (October 2016 to May 2017) studying Biochemistry at Pembroke College
