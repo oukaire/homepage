@@ -1,62 +1,100 @@
 ---
 layout: page
-title: CV
-permalink: /cv/
+title: Resume
+permalink: /resume/
 ---
 
-## Areas of Interest
-* Medicine and Health Entrepreneurship
+<p style="text-align: center;"> 
+  <b>ONYINYECHI UKAIRE</b><br>
+  20 Sawyer Avenue<br>
+  Medford, MA 02155<br>
+  +1 (617) 833-1649<br>
+  oukaire12@alaalumni.org
+</p>
 
-## Education
+### Education
 
-**Tufts University, School of Arts and Sciences, Medford, MA 02155**
-* Bachelor of Science in Biochemistry, 2018, Summa Cum Laude* 
-* Majored in Biochemistry, Minored in Computer Science
-* Honors: Dean's List from Fall 2014 to Present, GPA: 3.87
+**Tufts University**, Medford, Massachusetts<br>
+B.S. in Biochemistry and Computer Science, May 2018<br>
+Honors: Dean's List (all semesters), _summa cum laude_<br>
+Oliver Chapman Award<br>
+Fares Scholarship
+<p></p>
+Activities:<br>
+[Tufts Sharewood Project](http://medicine.tufts.edu/Global-and-Local-Engagement/Sharewood)<br>
+[Premedical Society](http://tuftspremedical.strikingly.com/)<br>
+[JumboCode](http://jumbocode.org/)<br>
+African Dance Collective, now COCOA<br>
+African Students Organisation<br>
+Club soccer and table-tennis
 
-**University of Oxford, Oxford, United Kingdom 0X11DW**
-* Junior year abroad (October 2016 to May 2017) studying Biochemistry at Pembroke College
+**University of Oxford**, Oxford, United Kingdom<br>
+Junior year abroad, October 2016 to May 2017, studied Biochemistry at Pembroke College<br>
+Honors: Javi Leverson Award
+<p></p>
+Activities:<br>
+[the Oxford Union](https://www.oxford-union.org/)<br>
+[OUBS - the society for biochemistry](http://www.bioch.ox.ac.uk/oubs/)<br>
+[Varsity soccer](https://www.pmb.ox.ac.uk/life-pembroke/clubs-societies/sports)<br>
+[Encore events](https://www.encoreoxford.com/)
 
-**African Leadership Academy (ALA), Johannesburg, South Africa**
-* Entrepreneurial Leadership and 'A' Levels Cambridge International Examinations
+**African Leadership Academy (ALA)**, Johannesburg, South Africa<br>
+Diploma in Entrepreneurial Leadership<br>
+Certificate in Cambridge International Examinations - Advanced Level
 
-## Experience
+### Other Awards (selected)
 
-**Hospital de Santa Maria, Centro Hospitalar Lisboa Norte Lisbon, Portugal, June - August 2017**
-_Premedicine Leadershup Scholar at Atlantis Project Fellowship, an AMSA endorsed US program abroad_
-* Shadowed 8 medical doctors and surgeons across specialties including cardiology, neurology and oncology
-* Facilitated five of various group bonding sessions per week, at hospital and/or on excursions
+Rakuten Scholarship, Global Citizens Youth Summit - 2014<br>
+Best performing team Award, South Africa Tour De Math - 2013<br>
+National Senior Secondary School Mathematics Competition (NASSMAC) Award 1st prize, state level and cash award, national level - 2011<br>
+Nigerian National Petroleum Corporation 1st prize in Mathematics, Chemistry, Biology - 2011<br>
+Best student in Chemistry and Biology, International Academy for the Gifted and Talented, Lagos, Nigeria - 2010, 2011
 
-**National Cancer Institute, National Institutes of Health, Bethesda, MD 20892, June - August 2016**      
-_Summer Student/Intern at Laboratory of Translational Genomics_
-* investigated interferon-lamda 4 (IFN-λ) mechanism for anti-proliferative effects in hepatoma cells
-* Used RNAseq and Ingenuity Pathway Analysis to detect relevant network of genes at target cellular level
+### Experience
 
-**Tufts Sharewood Project, Malden Clinic, MA 02148, November 2015 - May 2016**         
-_Volunteer and Liaison for Tufts Premedical Society_
-* Triaged 5-15 patients a week, checking their height, weight and vital signs
-* Proffered patients to appropriate wards, doctors or departments for further attention
+**Global Citizens Youth Summit**<br>
+Summer 2014 - Present<br>
+Harvard Faculty Club, Cambridge, Massachusetts<br>
+_Rakuten Scholar_<br>
+Designed “Live and let live," a project that researched health stress. Marketed GCYS with flyers and media adverts.
 
-**Global Citizens Youth Summit, Harvard Faculty Club, Cambridge, MA 02138, August 2014**         
-_Rakuten Scholar_
-* Designed a project that researched health stress titled “Live and let live”
-* Marketed GCYS with flyers and media adverts
+**Hospital de Santa Maria, Centro Hospitalar Lisboa Norte**<br>
+Summer 2017<br>
+Lisbon, Portugal<br>
+_Premedicine Leadership Scholar_ at [Atlantis Project Fellowship](https://atlantisglobal.org/)<br>
+Shadowed 8 medical doctors and surgeons across specialties including cardiology, neurology and oncology. Facilitated five of various group bonding sessions per week, at hospital and/or on excursions.
 
-**Footprints Limited, ALA, Johannesburg, South Africa, September 2012 - April 2014**          
-_Financial Officer, student-run business that nets over $5,500 annually_
-* Managed stakeholder relationships & led an elevator pitch that made us raise $1,500 starting capital
-* Analyzed sales report and predicted opportunities that grew profit from $2,000 in 2013 to $5,000 in 2014
+**National Cancer Institute, National Institutes of Health**<br>
+Summer 2016<br>
+Bethesda, Maryland<br>
+_Summer Student/Intern_ at [Laboratory of Translational Genomics](https://dceg.cancer.gov/about/staff-directory/biographies/K-N/prokunina-olsson-ludmila)<br>
+Investigated interferon-lambda 4 (IFN-λ4) mechanism for anti-proliferative effects in hepatoma cells. Used RNAseq and Ingenuity Pathway Analysis to detect relevant network of genes at target cellular level.
 
-**Accelerating Youth Employment Forum, Addis Ababa, Ethiopia, January 2014**         
-_ALA student representative_
-* Facilitated group activities that brainstormed solutions to tackling youth unemployment in Africa 
-* Proposed solutions to 54 African Heads of State at a round table
+**Tufts Sharewood Project**<br>
+Fall 2015 - Spring 2016<br>
+Malden Clinic, Massachusetts<br>
+_Volunteer and Liaison_ for Tufts Premedical Society<br>
+Triaged 5-15 patients a week, checking their height, weight and vital signs. Proffered patients to appropriate wards, doctors or departments for further attention.
 
-**Hollard Group of Companies, Johannesburg, South Africa, November 2012 - October 2013**        
+**Footprints Limited, ALA**<br>
+Fall 2012 - Spring 2014<br>
+Johannesburg, South Africa<br>
+_Financial Officer_ for a student-run business that nets over $5,500 annually<br>
+Managed stakeholder relationships and led an elevator pitch that made us raise $1,500 starting capital. Analyzed sales report and predicted opportunities that grew profit from $2,000 in 2013 to $5,000 in 2014.
+
+**Accelerating Youth Employment Forum**<br>
+January 2014<br>
+Addis Ababa, Ethiopia<br>
+_ALA student representative_<br>
+Facilitated group activities that brainstormed solutions to tackling youth unemployment in Africa. Proposed solutions to 54 African Heads of State at a round table.
+
+**Hollard Group of Companies**<br>
+Fall 2012 - Fall 2013<br>
+Johannesburg, South Africa<br>
 _Market Research and Finance Intern_
-* Interviewed 10 suppliers and 15 consumers of financial products and services to learn their use of such products
+Interviewed 10 suppliers and 15 consumers of financial products and services to learn their use of such products. Designed a data presentation that proposed potential market opportunities for the company.
 
-## Projects
+### Projects
 
 **Type Inferencer**
 * Implemented a constraint-based inference algorithm in ML for the Hindley-Milner type system, which represents the current best practice for flexible static typing.
@@ -75,32 +113,12 @@ and component video (Y/PR/PB) color spaces and then a discrete cosine transform
 * Packed and unpacked binary data that puts multiple small values (both signed and unsigned) into a word. 
 * Implemented two’s-complement representations of signed data alongside floating-point arithmetic.
 
-## Honors and Awards
+### Languages
+Fluent in English, Proficient in Igbo and French
 
-**Tufts University**
-* Dean’s List: Fall 2014 to Fall 2017 (All Semesters)
-* Javi Leverson Award for Tufts-in-Oxford program
+### Technologies
 
-**Rakuten Scholarship, GCYS**
-* Awarded scholarship to create a project to tackle social change
+Programming languages including C/C++, Scheme, SML, HTML, JavaScript, R, Intel-Assembly. Technologies including CSS, Git, Google Web Toolkit, Heroku, jQuery, JSON, Jekyll, Node.js, XML, MongoDb
 
-**Tour De Math**
-* Team Award: best performing team
-
-**National Senior Secondary School Mathematics Competition (NASSMAC), Abuja, Nigeria, 2011**
-* Awarded 1st Price at State level of the competition and received a cash award at the national level
-
-**Nigerian National Petroleum Corporation, Lokoja, Nigeria, 2011**
-* Awarded 1st price award at both state and rural level in Mathematics, Chemistry and Biology
-
-**International Academy for the Gifted and Talented, Lagos, Nigeria, August 2010 and 2011**
-* Awarded Best Student in Chemistry and Biology
-
-## Skills
-
-* _Languages_: Proficient in English and French
-* _Computer Languages_: C/C++, HTML, JavaScript, R, Intel-Assembly
-* _Technologies_: Cascading Style Sheets (CSS), Git, Google Web Toolkit, Heroku, jQuery, JavaScript Object Notation (JSON), Jekyll, Node.js, XML, MongoDb
-
-## Interests
-* Soccer, Tennis and dancing.
+### Interests
+Traveling, cooking, dancing, playing soccer, following global political news, reading fiction and motivational books, watching shows
