@@ -1,11 +1,7 @@
-**My Portfolio**
-by _Onyinyechi Ukaire_ 
+**My Personal Website**<br>
 Last Updated: March 26, 2017
--------------------------------------------------------------------------
+---------------------------------------------------------
 
 ## Overview
 
-[Onyi Ukay](https://oukaire.github.io/) is a sketched portfolio of myself.
-
-## Credits
-[Ming's Homepage](https://github.com/mchow01/mchow01.github.io)
+[Onyi Ukay](https://oukaire.github.io/) was redeveloped using Jekyll
