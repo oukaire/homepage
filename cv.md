@@ -28,8 +28,9 @@ African Dance Collective, now COCOA<br>
 African Students Organisation<br>
 Club soccer and table-tennis
 
-**University of Oxford**, Oxford, United Kingdom<br>
-Junior year abroad, October 2016 to May 2017, studied Biochemistry at Pembroke College<br>
+**Pembroke College, University of Oxford**, Oxford, United Kingdom<br>
+October 2016 to May 2017<br>
+Junior year abroad, studied Biochemistry<br>
 Honors: Javi Leverson Award
 <p></p>
 Activities:<br>

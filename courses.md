@@ -6,7 +6,7 @@ permalink: /courses/
 
 #### Spring 2018
 * COMP 0061: Discrete Mathematics
-* COMP 0105: Programming Languages
+* COMP 0105: Programming Language
 * CST 0010: Visualizing Colonialism
 * MUS 0003: Introduction To World Music
 * DRWM 0005: Calligraphy
