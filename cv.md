@@ -18,7 +18,7 @@ permalink: /resume/
 B.S. in Biochemistry and Computer Science, May 2018<br>
 Honors: Dean's List (all semesters), _summa cum laude_<br>
 Oliver Chapman Award<br>
-Fares Scholarship
+[Fares Scholarship](../docs/faresprofile.pdf)
 <p></p>
 Activities:<br>
 [Tufts Sharewood Project](http://medicine.tufts.edu/Global-and-Local-Engagement/Sharewood)<br>
