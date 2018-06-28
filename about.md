@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### Background
-I was born in Abuja, Nigeria where I completed most of my early schooling. I graduated from Federal Government Academy in 2012 and [African Leadership Academy](http://www.africanleadershipacademy.org/) in 2014.
+I was born in Abuja, Nigeria where I completed most of my early schooling. I graduated from [Federal Government Academy](http://www.fgasuleja.com.ng) in 2012 and [African Leadership Academy](http://www.africanleadershipacademy.org) in 2014.
 
 ### Abridged Autobiography
 Coming from a humble background, Ukay is thankful to have been exposed to a wealth of experiences that makes him demonstrate servant leadership. He acknowledges that despite his hard-work and pursuit, his personal journey would have not been possible without help from many teachers, tutors and friends. He brings energy to a team, as he is a fun conversationalist, facilitator and pace-setter. 

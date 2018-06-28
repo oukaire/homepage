@@ -9,7 +9,7 @@ permalink: /resume/
   20 Sawyer Avenue<br>
   Medford, MA 02155<br>
   +1 (617) 833-1649<br>
-  oukaire12@alaalumni.org
+  <a href="mailto:oukaire12@alaalumni.org?Subject=Hello%20Ukay" target="_parent">Send an Email</a>
 </p>
 
 ### Education
@@ -24,6 +24,7 @@ Activities:<br>
 [Tufts Sharewood Project](http://medicine.tufts.edu/Global-and-Local-Engagement/Sharewood)<br>
 [Premedical Society](http://tuftspremedical.strikingly.com/)<br>
 [JumboCode](http://jumbocode.org/)<br>
+National Society of Black Engineers ([NSBE](https://sites.tufts.edu/nsbe/))<br>
 African Dance Collective, now COCOA<br>
 African Students Organisation<br>
 Club soccer and table-tennis
